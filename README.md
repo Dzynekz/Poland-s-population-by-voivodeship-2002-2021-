@@ -1,1 +1,0 @@
-# Poland-s-population-by-voivodeship-2002-2021-
