@@ -13,6 +13,8 @@ This allows the program to access up-to-date information about the population an
 such as generating reports or analyzing trends.
 The code presented in the project could have been written in a way that requires fewer API requests
 and allows for faster data retrieval. However, it wasn't a priority for me, and I'm aware that there's room for improvement.
+
+
 PL:
 W folderze o nazwie "PL" znajdują się elementy wykorzystane w mojej pracy.
 Wśród nich można znaleźć moją pracę na temat populacji w Polsce,
